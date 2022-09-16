@@ -15,8 +15,8 @@
 12-->C:\Users\Vasyl_Oliinyk\Desktop\ReactNativeRetraining\android\app\src\main\AndroidManifest.xml:4:5-67
 12-->C:\Users\Vasyl_Oliinyk\Desktop\ReactNativeRetraining\android\app\src\main\AndroidManifest.xml:4:22-64
 13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\Vasyl_Oliinyk\.gradle\caches\transforms-3\b2ec3232205e095c09543a31d56ae642\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:5-76
-13-->[com.facebook.flipper:flipper:0.125.0] C:\Users\Vasyl_Oliinyk\.gradle\caches\transforms-3\b2ec3232205e095c09543a31d56ae642\transformed\jetified-flipper-0.125.0\AndroidManifest.xml:16:22-73
+13-->[com.facebook.flipper:flipper:0.164.0] C:\Users\Vasyl_Oliinyk\.gradle\caches\transforms-3\d1a21bb70b293938df45c9e75783548d\transformed\jetified-flipper-0.164.0\AndroidManifest.xml:16:5-76
+13-->[com.facebook.flipper:flipper:0.164.0] C:\Users\Vasyl_Oliinyk\.gradle\caches\transforms-3\d1a21bb70b293938df45c9e75783548d\transformed\jetified-flipper-0.164.0\AndroidManifest.xml:16:22-73
 14
 15    <application
 15-->C:\Users\Vasyl_Oliinyk\Desktop\ReactNativeRetraining\android\app\src\main\AndroidManifest.xml:6:5-25:19
